@@ -1,3 +1,7 @@
 pandas
 numpy
 pymongo
+flask
+scikit-learn
+scipy
+# -e .
