@@ -11,7 +11,8 @@ logging.basicConfig(
 )
 
 list_of_files = [
-    ".github/workflows/main.yaml"
+    ".github/workflows/.gitkeep",
+    ".github/workflows/main.yaml",
     "artifacts/data_set.csv",
     "notebook/project.ipynb",
     "src/components/__init__.py",
